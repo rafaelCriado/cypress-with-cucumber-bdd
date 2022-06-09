@@ -1,0 +1,188 @@
+[
+  {
+    "description": "Eu como usuário do Buger Eats\nDesejo cadastrar-me como entregador\nPara que possa desfrutar das funcionalidades deste tipo de usuário",
+    "keyword": "Funcionalidade",
+    "name": "Realizar cadastro de novo entregador",
+    "line": 3,
+    "id": "realizar-cadastro-de-novo-entregador",
+    "tags": [
+      {
+        "name": "@cadastro",
+        "line": 2
+      }
+    ],
+    "uri": "cadastro.feature",
+    "elements": [
+      {
+        "id": "realizar-cadastro-de-novo-entregador;realizar-cadastro-de-novo-entregador-com-sucesso",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "Realizar cadastro de novo entregador com sucesso",
+        "tags": [
+          {
+            "name": "@cadastro",
+            "line": 2
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 9,
+            "name": "usuario na pagina inicial do sistema",
+            "result": {
+              "status": "passed",
+              "duration": 609000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Então ",
+            "line": 10,
+            "name": "o texto \"Seja um parceiro entregador pela Buger Eats\" estará visivel",
+            "result": {
+              "status": "passed",
+              "duration": 29000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 11,
+            "name": "opta por realizar o cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 115000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 12,
+            "name": "preenche o nome \"Rafael Criado\"",
+            "result": {
+              "status": "passed",
+              "duration": 398000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 13,
+            "name": "preenche o cep",
+            "result": {
+              "status": "passed",
+              "duration": 430000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 14,
+            "name": "seleciona o metodo de entrega \"Bicicleta\"",
+            "result": {
+              "status": "passed",
+              "duration": 136000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 15,
+            "name": "anexo arquivo \"imagem.png\"",
+            "result": {
+              "status": "passed",
+              "duration": 42000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "realizar-cadastro-de-novo-entregador;realizar-cadastro-de-novo-entregador-com-sucesso",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "Realizar cadastro de novo entregador com sucesso",
+        "tags": [
+          {
+            "name": "@cadastro",
+            "line": 2
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 9,
+            "name": "usuario na pagina inicial do sistema",
+            "result": {
+              "status": "passed",
+              "duration": 881000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Então ",
+            "line": 10,
+            "name": "o texto \"Seja um parceiro entregador pela Buger Eats\" estará visivel",
+            "result": {
+              "status": "passed",
+              "duration": 20000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 11,
+            "name": "opta por realizar o cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 117000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 12,
+            "name": "preenche o nome \"Rafael Criado\"",
+            "result": {
+              "status": "passed",
+              "duration": 390000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 13,
+            "name": "preenche o cep",
+            "result": {
+              "status": "passed",
+              "duration": 432000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 14,
+            "name": "seleciona o metodo de entrega \"Moto\"",
+            "result": {
+              "status": "passed",
+              "duration": 121000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 15,
+            "name": "anexo arquivo \"imagem.png\"",
+            "result": {
+              "status": "passed",
+              "duration": 25000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
